@@ -8,11 +8,12 @@ namespace _05.thenBySortingCollection
     {
         static void Main(string[] args)
         {
-            Dictionary<int, string> products = new Dictionary<int, string>() 
+            Dictionary<int, string> products = new Dictionary<int, string>()
             {
                 { 1, "Product 1" },                  // populating the lsit with some products !
                 { 2, "Aroduct 2"},
-                { 3, "Croduct 3"}
+                { 3, "Croduct 3"},
+                { -1, "Croduct 3"}           // adding an element with the same value,but differen key number value, it sorts them by priorirykey
             
             }; // we create a dictionary
             Dictionary<int, string> orderedProducts = products.OrderBy(pair => pair.Value)  //sorts by Value, 
