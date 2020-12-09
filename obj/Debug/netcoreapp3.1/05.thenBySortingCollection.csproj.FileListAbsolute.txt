@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\bin\Debug\netcoreapp3.1\05.thenBySortingCollection.exe
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\bin\Debug\netcoreapp3.1\05.thenBySortingCollection.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\bin\Debug\netcoreapp3.1\05.thenBySortingCollection.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\bin\Debug\netcoreapp3.1\05.thenBySortingCollection.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\bin\Debug\netcoreapp3.1\05.thenBySortingCollection.dll
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\bin\Debug\netcoreapp3.1\05.thenBySortingCollection.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\obj\Debug\netcoreapp3.1\05.thenBySortingCollection.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\obj\Debug\netcoreapp3.1\05.thenBySortingCollection.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\obj\Debug\netcoreapp3.1\05.thenBySortingCollection.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\obj\Debug\netcoreapp3.1\05.thenBySortingCollection.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\obj\Debug\netcoreapp3.1\05.thenBySortingCollection.dll
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\obj\Debug\netcoreapp3.1\05.thenBySortingCollection.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\05.thenBySortingCollection\obj\Debug\netcoreapp3.1\05.thenBySortingCollection.genruntimeconfig.cache
