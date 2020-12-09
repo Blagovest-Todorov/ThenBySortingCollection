@@ -17,9 +17,9 @@ namespace _05.thenBySortingCollection
             
             }; // we create a dictionary
             Dictionary<int, string> orderedProducts = products.OrderBy(pair => pair.Value)  //sorts by Value, 
-                                                               .ThenBy(pair => pair.Key) // sorts additionally by Key
+                                                               .ThenBy(pair => pair.Key) // sorts additionally by Key // additional criteria for sorting
                                                                .ToDictionary(pair => pair.Key, pair => pair.Value); // transforms to pair key-Velue
-
+                                                              // We convert our collection to dictionary as key remains -> key, value -remaind -> value
             Console.WriteLine(string.Join("  ", orderedProducts)); // prints teh result alphabethically 
             // we are moving aroung the entries ordering them by value
 
